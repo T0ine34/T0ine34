@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @T0ine34
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Python programming and web developpement
 - 📫 How to reach me : antoine.buirey@gmail.com
 
 <!---
