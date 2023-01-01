@@ -8,5 +8,3 @@ T0ine34/T0ine34 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-- My current project : 
-  [Display a image in the console](https://github.com/T0ine34/Ascii-Art/)
