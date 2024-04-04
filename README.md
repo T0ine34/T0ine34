@@ -11,7 +11,7 @@
   - ReactJs
   - Python/Tkinter
   - OpenGl
-    And more...
+  - And more...
 
 <!---
 T0ine34/T0ine34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
